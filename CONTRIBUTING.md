@@ -39,7 +39,8 @@ If you are just looking for correcting a tiny error, like e.g. a typo or somethi
 ### Unwanted Changes
 
 Pull Requests that contain the following functionality will be rejected:
-* Any that use of libraries that do not comply the license of the this project (i.e. GPLv3, Apache2 or Expat (a.k.a. MIT)).  
+* Any that use of libraries that do not comply the license of this project (i.e. GPLv3, Apache2 or Expat (a.k.a. MIT)).
+* Features that are against the described goals of the project.
 
 ## Submitting Changes
 
