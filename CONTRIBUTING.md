@@ -4,7 +4,7 @@ Respecting the following guidelines for contributing increases your chances of a
 
 Keeping that in mind, you are kindly asked to respect the guidelines and follow them as closely as possible.
 
-If you still have questions, contact me @ akito.kitsune protonmail com
+If you still have questions, contact me @ the akito.ooo
 
 This file is based on this [contributing information](https://github.com/SecUSo/privacy-friendly-app-example/blob/master/CONTRIBUTING.md) by [SecUSo](https://github.com/SecUSo).
 
