@@ -1,9 +1,12 @@
 ### Creating a bug report/issue
 
 #### Required Information
-- Project version ? Post the commit number and corresponding branch. Example: 895fc1e2ea @ master
-- Distro version ? hostnamectl || lsb-release -a || similar commands
-- Kernel version ? `uname -a`
+Project version
+<!-- Post the commit number and corresponding branch. Example: 895fc1e2ea @ master -->
+Distro version
+<!-- hostnamectl || lsb-release -a || inxi -Fxz || cat /etc/os-release || similar commands -->
+Kernel version
+<!-- uname -a -->
 
 #### Steps to reproduce
 <!-- Explain how to reproduce the issue -->
